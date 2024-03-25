@@ -1,3 +1,4 @@
 # ghstack-demo
 
-Stack 1
+Stack 3
+Stack 2
